@@ -1,5 +1,5 @@
 # Android-TabLayoutExample
-Como mostrado em: https://youtu.be/7z9PKzwm-fQ
+Como mostrado em: https://youtu.be/JNjA8KODG1U
 
 Em meu canal do YouTube, criei um vídeo explicando como utilizar
 diferentes "Fragments" dentro do "TabLayout" do Android.
